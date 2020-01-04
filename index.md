@@ -1,4 +1,3 @@
-# Welcome to my blog
 
 This is a test on the course I am taking with Github Lab !
 

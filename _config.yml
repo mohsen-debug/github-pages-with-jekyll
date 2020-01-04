@@ -1,12 +1,12 @@
 title: Portfolio | Mohsen Karimi
 author: Mohsen
-email: karimi_mp@yahoo.com
+# email: karimi_mp@yahoo.com
 description: > # this means to ignore newlines until "baseurl:"
+  <br><br>
   CFD engineer with over 10 years of experience.
 
 # social links
-twitter_username: your-twitter-handle
 github_username:  mohsen-debug
 
-show_excerpts: true # set to false to remove excerpts on the homepage
+show_excerpts: false # set to false to remove excerpts on the homepage
 theme: minima

@@ -1,3 +1,5 @@
 # Welcome to my blog
 
-I'm glad you are here. I plan to talk about ...
+This is a test on the course I am taking with Github Lab !
+
+Let's see how it goes!!
